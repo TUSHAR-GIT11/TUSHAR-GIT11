@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tushar Gupta</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar-git11&label=Profile%20views&color=0e75b6&style=flat" alt="tushar-git11" /> </p>
 
