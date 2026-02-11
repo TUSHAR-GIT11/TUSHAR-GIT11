@@ -21,7 +21,7 @@
 - 🔭 I’m currently working on **Full Stack & MERN projects**
 - 🌱 Learning **Advanced Backend, GraphQL & System Design**
 - 👯 Open to **Open Source Contributions**
-- 👨‍💻 Portfolio: **https://portfolio-o5i7.vercel.app/**
+- 👨‍💻 Portfolio: **https://tushar-gupta.vercel.app/**
 - 📫 Reach me at **tushargupta10th@gmail.com**
 
 ---
